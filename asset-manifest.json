@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.611c147b.chunk.css",
+    "main.js": "/static/js/main.a5a357f4.chunk.js",
+    "main.js.map": "/static/js/main.a5a357f4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.8aaa563e.chunk.js": "/static/js/2.8aaa563e.chunk.js",
+    "static/js/2.8aaa563e.chunk.js.map": "/static/js/2.8aaa563e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4cd988d1be23cc9b159dbd923908a907.js": "/precache-manifest.4cd988d1be23cc9b159dbd923908a907.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.611c147b.chunk.css.map": "/static/css/main.611c147b.chunk.css.map",
+    "static/media/cryo.png": "/static/media/cryo.083fe9e2.png",
+    "static/media/hof.jpg": "/static/media/hof.cbaee601.jpg",
+    "static/media/treatments.png": "/static/media/treatments.371e86cf.png"
+  }
+}
